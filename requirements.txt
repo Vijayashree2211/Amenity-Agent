@@ -1,0 +1,24 @@
+# Core LLM tools
+langchain
+openai
+faiss-cpu
+
+# Database
+sqlalchemy
+psycopg2-binary     # use this for PostgreSQL
+# pymysql           # uncomment if you're using MySQL instead
+
+# Environment variables
+python-dotenv
+
+# Email support (standard library smtplib is used; no need for external)
+# MIME and smtplib are built-in, no install needed
+
+# Optional: for API if using FastAPI/Uvicorn
+fastapi
+uvicorn
+
+# Utility
+tqdm
+requests
+typing-extensions
