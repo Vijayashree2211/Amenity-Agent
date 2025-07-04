@@ -1,0 +1,38 @@
+Community: GreanLeaf LandScapin
+Amenities: Luxe theater, Down Town Co-work hub, Swimming pool, Cardiac machines, Sunset clubhouse, Central tennis court, Executive conference, Sky view lounge, Happy tots play zone
+Schedule: Luxe theater | 2025-06-20 6:00 PM, 2025-06-21 8:00 PM
+Schedule: Down Town Co-work hub | 2025-06-20 9:00 AM, 2025-06-21 10:00 AM
+Schedule: Swimming pool | 2025-06-20 7:00 AM, 2025-06-22 8:30 AM
+Schedule: Cardiac machines | 2025-06-20 6:00 AM, 2025-06-21 7:30 AM
+Schedule: Sunset clubhouse | 2025-06-20 5:00 PM, 2025-06-22 6:00 PM
+Schedule: Central tennis court | 2025-06-20 7:00 PM, 2025-06-21 8:00 PM
+Schedule: Executive conference | 2025-06-21 3:00 PM, 2025-06-22 4:00 PM
+Schedule: Sky view lounge | 2025-06-20 6:00 PM, 2025-06-21 9:00 PM
+Schedule: Happy tots play zone | 2025-06-21 10:00 AM, 2025-06-22 11:00 AM
+
+Community: Smith Services
+Amenities: Central Tennis court, Sunset clubhouse, Olympic pool, Executive conference, Sky view lounge, Happy tots play zone, Gymnastic room
+Schedule: Central Tennis court | 2025-06-21 7:00 PM, 2025-06-22 8:00 PM
+Schedule: Sunset clubhouse | 2025-06-20 5:00 PM, 2025-06-21 6:00 PM
+Schedule: Olympic pool | 2025-06-20 6:00 AM, 2025-06-21 7:00 AM
+Schedule: Executive conference | 2025-06-21 2:00 PM, 2025-06-22 3:00 PM
+Schedule: Sky view lounge | 2025-06-21 6:00 PM, 2025-06-22 7:00 PM
+Schedule: Happy tots play zone | 2025-06-21 11:00 AM, 2025-06-22 12:00 PM
+Schedule: Gymnastic room | 2025-06-21 7:00 AM, 2025-06-22 8:00 AM
+
+Community: Wilson Tech Solutions
+Amenities: Olympic pool
+Schedule: Olympic pool | 2025-06-21 6:00 AM, 2025-06-22 7:30 AM
+
+Theater = Luxe theater  
+Workspace = Down Town Co-work hub  
+Work = Down Town Co-work hub  
+Pool = Swimming pool, Olympic pool  
+Gym = Cardiac machines, Gymnastic room  
+Clubhouse = Sunset clubhouse  
+Party = Sunset clubhouse  
+Sports = Central tennis court  
+Conference = Executive conference  
+Lounge = Sky view lounge  
+Kids = Happy tots play zone  
+Play = Happy tots play zone  
